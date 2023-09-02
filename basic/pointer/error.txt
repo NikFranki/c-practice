@@ -1,2 +1,0 @@
-文件打开失败
-文件打开失败，原因竟然是: < No such file or directory >
