@@ -21,6 +21,7 @@
     "tuple": "c",
     "type_traits": "c",
     "vector": "c",
-    "memory": "c"
+    "memory": "c",
+    "stdio.h": "c"
   }
 }
