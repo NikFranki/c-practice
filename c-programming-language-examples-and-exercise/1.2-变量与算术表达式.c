@@ -46,6 +46,7 @@ int main()
   // step = 20;   // step size
 
   fachr = LOWER;
+  
   while (fachr <= UPPER)
   {
     celsius = (5.0 / 9.0) * (fachr - 32.0);
