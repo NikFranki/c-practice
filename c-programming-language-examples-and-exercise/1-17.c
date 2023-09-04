@@ -8,7 +8,6 @@
 #define MAXLINE 1000
 
 int getlinestring(char s[], int lim);
-void copy(char to[], char from[]);
 
 int main()
 {
