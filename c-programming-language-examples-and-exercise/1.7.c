@@ -1,5 +1,5 @@
 /*
- * 1.7.
+ * 1.7
  * Write a program to implement power function
  */
 
