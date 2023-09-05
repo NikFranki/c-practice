@@ -42,8 +42,8 @@ int main()
         }
       }
       else // 正常输出
-      {
-        putchar(c);
+      {;
+        putchar(c)
         putchar(prevc = nextc);
       }
     }
