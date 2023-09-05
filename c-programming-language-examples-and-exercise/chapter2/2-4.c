@@ -27,6 +27,7 @@ void squeeze(char s1[], char s2[])
   char symbol[SIZE] = {};
   int i, j;
 
+  // 对于出现在 s2 的字符，使用 symbol 来做标记
   for (i = 0; s2[i] != '\0'; ++i)
   {
     symbol[s2[i]] = 1;
@@ -34,6 +35,7 @@ void squeeze(char s1[], char s2[])
 
   i = j = 0;
 
+  // 使用双循环来过滤已经存在在 s2 的字符，遍历 s1 的字符，如果在 s2 中出现过，那么就跳过这个字符
   while (s1[i] != '\0')
   {
     while (symbol[s1[i]])
