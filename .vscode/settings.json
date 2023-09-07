@@ -23,6 +23,7 @@
     "vector": "c",
     "memory": "c",
     "stdio.h": "c",
-    "ctype.h": "c"
+    "ctype.h": "c",
+    "atof.h": "c"
   }
 }
