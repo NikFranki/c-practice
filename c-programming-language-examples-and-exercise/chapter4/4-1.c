@@ -10,7 +10,7 @@
 int strindex(char s[], char t[]);
 
 int main() {
-  printf("strindex(\"abcabc\", \"ab\") -> %d\n", strindex("abcabc", "ab"));
+  printf("strindex(\"abcabc\", \"ab\") -> %d\n", strindex("abcabc", "b"));
   printf("strindex(\"abcabc\", \"def\") -> %d\n", strindex("abcabc", "def"));
 }
 

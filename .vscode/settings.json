@@ -24,6 +24,7 @@
     "memory": "c",
     "stdio.h": "c",
     "ctype.h": "c",
-    "atof.h": "c"
+    "atof.h": "c",
+    "stack.h": "c"
   }
 }
