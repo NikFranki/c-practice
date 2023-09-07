@@ -26,6 +26,8 @@
     "ctype.h": "c",
     "atof.h": "c",
     "stack.h": "c",
-    "getop.h": "c"
+    "getop.h": "c",
+    "list": "c",
+    "reverse.h": "c"
   }
 }
