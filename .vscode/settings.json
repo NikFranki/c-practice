@@ -28,6 +28,8 @@
     "stack.h": "c",
     "getop.h": "c",
     "list": "c",
-    "reverse.h": "c"
+    "reverse.h": "c",
+    "cmp.h": "c",
+    "getlines.h": "c"
   }
 }
