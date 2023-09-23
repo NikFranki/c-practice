@@ -1,7 +1,7 @@
 /**
  * @file 25.c
  * @author your name (you@domain.com)
- * @brief
+ * @brief 求1+2!+3!+...+20!的和
  * @version 0.1
  * @date 2023-09-23
  *

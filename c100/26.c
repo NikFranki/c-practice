@@ -1,7 +1,7 @@
 /**
  * @file 26.c
  * @author your name (you@domain.com)
- * @brief
+ * @brief 利用递归方法求5!。
  * @version 0.1
  * @date 2023-09-23
  *
