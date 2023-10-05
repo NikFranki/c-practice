@@ -30,6 +30,7 @@
     "list": "c",
     "reverse.h": "c",
     "cmp.h": "c",
-    "getlines.h": "c"
+    "getlines.h": "c",
+    "curl.h": "c"
   }
 }
