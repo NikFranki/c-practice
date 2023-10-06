@@ -3,6 +3,8 @@
 #include <string.h>
 #include <curl/curl.h>
 
+// gcc -Wall -o curl spider.c -l curl
+
 // 回调函数，用于处理HTTP响应
 size_t write_callback(void *contents, size_t size, size_t nmemb, void *userptr)
 {
@@ -21,7 +23,7 @@ int main()
   CURLcode res;
 
   // 设置要爬取的网页URL
-  const char *url = "https://www.runoob.com";
+  const char *url = "https://www.baidu.com/";
 
   // 初始化libcurl
   curl = curl_easy_init();
